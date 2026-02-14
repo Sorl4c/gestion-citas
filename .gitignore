@@ -1,0 +1,9 @@
+/vendor/
+/database/*.db
+/database/*.db-shm
+/database/*.db-wal
+.env
+.DS_Store
+*.log
+composer.phar
+/public/dev.php
